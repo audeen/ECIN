@@ -11,6 +11,7 @@ $hits = 0;
 }
 
 
+
 $hit = rand( 1, 3 );
 
 if (($hit == 1) && ($_POST['hit'] == "left")) {
